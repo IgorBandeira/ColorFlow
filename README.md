@@ -2,7 +2,7 @@
 
 # `React com TypeScript`
 # `React Flow 🟦 🟢 🔶 🔺 ◼️`
-ColorFlow é um projeto designado a contruir fluxogramas com criatividade, conectividade, opção de escrita, formas e cores diferentes, a fim de enriquecer seus diagramas de processos. 
+ColorFlow é um projeto designado a construir fluxogramas com criatividade, conectividade, opção de escrita, formas e cores diferentes, a fim de enriquecer seus diagramas de processos. 
 <br>
 Também é possível trocar a cor de fundo, além de baixar o fluxograma desenhado.
 <br><br>
