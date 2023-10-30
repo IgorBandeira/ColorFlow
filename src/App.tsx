@@ -287,7 +287,6 @@ function App() {
           className="w-6 h-6 rounded-full cursor-pointer mx-2"
         ></div>
       </div>
-      {/* 1020 diminuir menor que isso, vai ter um menor que vai ser celphone: quando o cel está em pé */}
       <Toolbar.Root
         style={{ width: "80%" }}
         className={
